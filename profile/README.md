@@ -3,7 +3,7 @@
 ### *Autori*
 
 - Monald#9248 - Owner
-- 𝙎𝙢𝙪𝙨𝙞 𝙅𝙖𝙧𝙫𝙞𝙨#5666 - Owner
+- Smusi Jarvis#5666 - Owner
 
 ## Licenza
 
