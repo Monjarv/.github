@@ -1,5 +1,5 @@
 # **OmegaCore**
-![Logo](https://avatars.akamai.steamstatic.com/ce545eb5fae5f017952304498ae8b6e5b1b9c767_full.jpg)
+![Logo](https://cdn.discordapp.com/attachments/474299532801474562/1083491678897311784/OmegaCore_Logo.PNG)
 ### *Autori*
 
 - Monald#9248 - Owner
